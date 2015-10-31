@@ -54,3 +54,13 @@ https://github.com/pure-data/helloworld
 http://sourceforge.net/p/pure-data/svn/HEAD/tree/trunk/externals/miXed/cyclone/Makefile.cyclone
 
 More examples will be referenced here when they are available. 
+
+
+### FAQ ###
+
+(Un)frequently asked questions, and other stuff we wanted you to know.
+
+#### Does the system allow out-of-source builds?
+
+While it would be nice to be able to run the build process in a directory (or directories)
+different from the place where the sources reside, this is currently not possible.
